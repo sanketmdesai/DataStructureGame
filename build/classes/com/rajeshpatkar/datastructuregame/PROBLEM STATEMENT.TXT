@@ -1,4 +1,4 @@
-PROBLEM STATEMENT
+PROBLEM STATEMENT : STAGE 2
 
 Open Solution.java 
 
@@ -7,3 +7,5 @@ there is a method name find Duplicate
 This method receives an array of integer.
 
 Your task is to write a code to find the duplicate from the passed integer array. 
+
+FIND THE DUPLICATE BUT NOW IN ONE PARSE ONLY.
